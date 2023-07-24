@@ -27,6 +27,7 @@ function RecipeList({ recipes, deleteRecipe }) {
             <th>Ingredients</th>
             <th>Preparation</th>
             <th>Actions</th>
+            <th>Test</th>
           </tr>
         </thead>
         <tbody>
