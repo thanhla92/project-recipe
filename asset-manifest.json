@@ -1,13 +1,13 @@
 {
-  "main.css": "/thanhla92/project-recipe.git/static/css/main.5a4ffcd3.chunk.css",
-  "main.js": "/thanhla92/project-recipe.git/static/js/main.f53a18f2.chunk.js",
-  "main.js.map": "/thanhla92/project-recipe.git/static/js/main.f53a18f2.chunk.js.map",
-  "static/js/1.a804b799.chunk.js": "/thanhla92/project-recipe.git/static/js/1.a804b799.chunk.js",
-  "static/js/1.a804b799.chunk.js.map": "/thanhla92/project-recipe.git/static/js/1.a804b799.chunk.js.map",
-  "runtime~main.js": "/thanhla92/project-recipe.git/static/js/runtime~main.2f5c4f7e.js",
-  "runtime~main.js.map": "/thanhla92/project-recipe.git/static/js/runtime~main.2f5c4f7e.js.map",
-  "static/css/main.5a4ffcd3.chunk.css.map": "/thanhla92/project-recipe.git/static/css/main.5a4ffcd3.chunk.css.map",
-  "index.html": "/thanhla92/project-recipe.git/index.html",
-  "precache-manifest.57048eb05285f7ba7eb873b80f012577.js": "/thanhla92/project-recipe.git/precache-manifest.57048eb05285f7ba7eb873b80f012577.js",
-  "service-worker.js": "/thanhla92/project-recipe.git/service-worker.js"
+  "main.css": "/project-recipe/static/css/main.c6ed653b.chunk.css",
+  "main.js": "/project-recipe/static/js/main.42f0c4fe.chunk.js",
+  "main.js.map": "/project-recipe/static/js/main.42f0c4fe.chunk.js.map",
+  "runtime~main.js": "/project-recipe/static/js/runtime~main.e2d25596.js",
+  "runtime~main.js.map": "/project-recipe/static/js/runtime~main.e2d25596.js.map",
+  "static/js/2.62b63465.chunk.js": "/project-recipe/static/js/2.62b63465.chunk.js",
+  "static/js/2.62b63465.chunk.js.map": "/project-recipe/static/js/2.62b63465.chunk.js.map",
+  "index.html": "/project-recipe/index.html",
+  "precache-manifest.3bbea32638d0eeb4d05045240855a414.js": "/project-recipe/precache-manifest.3bbea32638d0eeb4d05045240855a414.js",
+  "service-worker.js": "/project-recipe/service-worker.js",
+  "static/css/main.c6ed653b.chunk.css.map": "/project-recipe/static/css/main.c6ed653b.chunk.css.map"
 }
